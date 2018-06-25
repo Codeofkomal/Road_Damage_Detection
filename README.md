@@ -3,6 +3,9 @@
 The following YOLO(You Only Look Once) algorithm uses Keras implementation.
 For futher information refer to: http://guanghan.info/blog/en/my-works/train-yolo/
 
+Dataset is taken from : https://github.com/sekilab/RoadDamageDetector.
+Annotated images are presented in the same format as PASCAL VOC.
+
 ## Libraries used:
 * opencv-python
 * tensorflow
